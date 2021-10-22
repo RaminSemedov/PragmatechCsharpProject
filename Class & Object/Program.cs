@@ -1,5 +1,5 @@
 ﻿
-//Class & objects
+//                               Class & objects
 using System;
 
 namespace ConsoleApp5
